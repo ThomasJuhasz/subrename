@@ -1,0 +1,22 @@
+{
+  "name": "subrename",
+  "version": "1.0.0",
+  "description": "A small node tool to quickly rename subtitles to the video files' names",
+  "main": "subrename.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThomasJuhasz/subrename.git"
+  },    
+  "bin": {
+    "subrename": "./subrename.js"
+  },
+  "author": "Thomas Juhasz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThomasJuhasz/subrename/issues"
+  },
+  "homepage": "https://github.com/ThomasJuhasz/subrename#readme"
+}
